@@ -1,2 +1,2 @@
 import torch
-device = torch.device("cup")
+device = torch.device("cpu")
